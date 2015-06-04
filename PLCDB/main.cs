@@ -22,7 +22,7 @@ namespace PLCDB
             p.Visible = true;
             this.Dispose(false);
 //MANTENER EN IDEAS
-        }
+        } //dfadsf 
 
     }
 }
